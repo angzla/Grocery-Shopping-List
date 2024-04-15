@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">grocery</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="category">Category</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="less">Less</string>
+    <string name="more">More</string>
+    <string name="add_item">Add Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="enter_item_here">Enter item here:</string>
+    <string name="item_title_cannot_be_empty">item title cannot be empty</string>
+    <string name="enter_item_price">Enter Item Price:</string>
+    <string name="enter_item_description">Enter item description:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
